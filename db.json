@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "bugs": [
+    { 
+      id: '11111111',
+      description: 'Brief issue description will be posted here1',
+      summary: 'dummy summary 1',
+      status: 'Open',
+      owner: 'Moshe B.',
+      createdBy: 'John S.',
+      createdOn: 'Mar 28, 2020'
+    },
+    { 
+      id: '2222222',
+      description: 'Brief issue description will be posted here2',
+      summary: 'dummy summary 2',
+      status: 'Closed',
+      owner: 'Moshe B.',
+      createdBy: 'John S.',
+      createdOn: 'Mar 28, 2020'
+    },
+    { 
+      id: '33333333',
+      description: 'Brief issue description will be posted here3',
+      summary: 'dummy summary 3',
+      status: 'Closed',
+      owner: 'Moshe B.',
+      createdBy: 'John S.',
+      createdOn: 'Mar 28, 2020'
+    }
+  ]
 }
