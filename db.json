@@ -2,6 +2,7 @@
   "bugs": [
     { 
       "id": "11111111",
+      "gid": "9999",
       "description": "Brief issue description will be posted here1",
       "summary": "dummy summary 1",
       "status": "Open",
@@ -11,6 +12,7 @@
     },
     { 
       "id": "2222222",
+      "gid": "101010",
       "description": "Brief issue description will be posted here2",
       "summary": "dummy summary 2",
       "status": "Closed",
@@ -20,12 +22,31 @@
     },
     { 
       "id": "33333333",
+      "gid": "121212",
       "description": "Brief issue description will be posted here3",
       "summary": "dummy summary 3",
       "status": "Closed",
       "owner": "Moshe B.",
       "createdBy": "John S.",
       "createdOn": "Mar 28, 2020"
+    }
+  ],
+  "groups": [
+    {
+      "gid": "9999",
+      "gName" "First Group1"
+    },
+    {
+      "gid": "8888",
+      "gName" "First Group2"
+    },
+    {
+      "gid": "7777",
+      "gName" "First Group3"
+    },
+    {
+      "gid": "6666",
+      "gName" "First Group4"
     }
   ]
 }
