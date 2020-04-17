@@ -34,19 +34,19 @@
   "groups": [
     {
       "gid": "9999",
-      "gName" "First Group1"
+      "gName": "First Group1"
     },
     {
       "gid": "8888",
-      "gName" "First Group2"
+      "gName": "First Group2"
     },
     {
       "gid": "7777",
-      "gName" "First Group3"
+      "gName": "First Group3"
     },
     {
       "gid": "6666",
-      "gName" "First Group4"
+      "gName": "First Group4"
     }
   ]
 }
